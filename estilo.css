@@ -84,6 +84,7 @@ html{
 .inicio .contenido-banner{
     padding: 20px;
     background-color: #1e2336;
+    height: 200px;
     max-width: 350px;
     margin: auto;
     text-align: center;
@@ -133,6 +134,136 @@ html{
 .inicio .contenido-banner .redes a:hover{
     background-color: #1CB698;
 }
+
+.sobremi{
+    background-color: #1e2336;
+    color:#fff;
+    padding: 50px 20px;
+
+}
+
+.sobremi .contenido-seccion{
+    max-width: 1100px;
+    margin: auto;
+}
+
+.sobremi h2{
+    font-size: 48px;
+}
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
